@@ -16,9 +16,6 @@ $ python -m venv env
 
 $ source env/bin/activate
 
-Install the dependencies:
-
-$ pip install -r requirements.txt
 
 Run the database migrations:
 
