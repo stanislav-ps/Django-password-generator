@@ -8,6 +8,8 @@ The following technologies are used to implement the service:
 
 Clone the repository:
 
+$ git clone https://github.com/stanislav-ps/Django-password-generator.git
+
 Create a virtual environment and activate it:
 
 $ python -m venv env
